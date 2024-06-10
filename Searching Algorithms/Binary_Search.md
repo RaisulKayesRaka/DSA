@@ -1,6 +1,5 @@
 # Binary Search
 
-## Code
 ```python
 def binary_search(arr, target):
     low = 0
@@ -18,10 +17,3 @@ def binary_search(arr, target):
 
     return -1
 ```
-
-## Complexity
-**Time Complexity:**
-- Best case Complextiy: $$O(1)$$
-- Average case Complextiy: $$O(logn)$$
-- Worst case Complextiy: $$O(logn)$$
-**Space Complexity:** $$O(1)$$
